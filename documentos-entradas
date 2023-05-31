@@ -1,0 +1,67 @@
+{
+	"documentos": [
+		{
+			"agrupador": 0,
+			"cnpjCpfEmpresa": "49834988000183",
+			"codigoDepositante": "30529117000470",
+			"codigoEmpresa": "49834988000183",
+			"codigoEstabelecimento": 5,
+			"dataEmissao": "2022-08-23 00:00:00",
+			"dataPrevisaoMovimento": "2022-08-23 14:08:00",
+			"descricaoNaturezaOperacao": "SEM VALOR FISCAL",
+			"detalhes": [
+				{
+					"classeProduto": "00",
+					"codigoEmpresa": "49834988000183",
+					"codigoProduto": "FOR282",
+					"dadoLogistico": null,
+					"dataVencimento": "2022-08-23 14:08:00",
+					"fatorTipoUc": 1.0,
+					"quantidadeMovimento": 756,
+					"tipoLogistico": 0,
+					"tipoUc": "UN",
+					"valorUnitario": 16.86
+
+				},
+					{
+					"classeProduto": "00",
+					"codigoEmpresa": "49834988000183",
+					"codigoProduto": "FOR52",
+					"dadoLogistico": " ",
+					"dataVencimento": "2022-08-23 14:08:00",
+					"fatorTipoUc": 1.0,
+					"quantidadeMovimento": 252,
+					"tipoIntegracao": null,
+					"tipoLogistico": 0,
+					"tipoUc": "UN",
+					"valorUnitario": 16.86
+				}
+			],
+			"empresas": [
+				{
+					"ativo": 1,
+					"bairro": "JARDIM SANTA ELIZA",
+					"cep": "18607500",
+					"cgcCpf": "49834988000183",
+					"codigo": "49834988000183",
+					"complemento": "LOJA 3",
+					"dataHistorico": "2022-08-23 16:30:29",
+					"depositante": 0,
+					"descricao": "SORBELL DISTRIBUIDORA ATACADO E VAREJO DE COSMETIC",
+					"endereco": "AV RUBENS RUBIO DA ROSA",
+					"municipio": "Botucatu",
+					"numero": "332",
+					"sistemaModulo": 0,
+					"tipoPessoa": "J",
+					"transportadora": 0,
+					"uf": "SP"
+				}
+			],
+			
+			"naturezaOperacao": "0000",
+			"numeroDocumento": "12",
+			"serieDocumento": "1",
+			"tipoDocumento": "NFE"
+		}
+	]
+}
