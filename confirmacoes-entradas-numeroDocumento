@@ -1,0 +1,25 @@
+{
+	"estadoIntegracao": "1",
+	"sequenciaIntegracao": 60560326,
+	"data": "2023-05-11 13:33:44",
+	"serieDocumento": "1",
+	"tipoDocumento": "NFE",
+	"codigoEmpresa": "30998254013009",
+	"numeroDocumento": "375736",
+	"quantidadeVolume": 0,
+	"codigoDepositante": "30998254013009",
+	"sentido": "E",
+	"peso": 0,
+	"detalhes": [
+		{
+			"classeProduto": "FR",
+			"codigoProduto": "456848",
+			"fatorTipoUc": "1",
+			"quantidadeInicial": 1300,
+			"quantidadeMovimento": 1300,
+			"tipoUc": "UN",
+			"dataVencimento": null,
+			"loteFabricacao": null
+		}
+	]
+}
