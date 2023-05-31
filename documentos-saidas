@@ -1,0 +1,96 @@
+{
+  "documentos": [
+    {
+      "agrupador": 0,
+      "codigoEstabelecimento": 10,
+      "codigoDepositante": "37527683000140",
+      "codigoEmpresa": "24286812000103",
+      "codigoTransportadora": "29326102000183",
+      "numeroDocumento": "11123",
+      "serieDocumento": "1",
+      "tipoDocumento": "PED",
+      "dataEmissao": "2022-07-26 00:00:00",
+      "dataPrevisaoMovimento": "2022-07-26 00:00:10",
+      "naturezaOperacao": "0000",
+      "descricaoNaturezaOperacao": "SEM VALOR FISCAL",
+      "valorTotalDocumento": 15.11,
+      "valorTotalProduto": 15.11,
+      "nfeChaveAcesso": "",
+      "nfeDataAutorizacao": "",
+      "nfeProtocolo": "",
+      "cnpjCpfEmpresa": "24286812000103",
+      "tipoPessoaEmpresa": "J",
+      "nomeEmpresa": "BAZAR E PERFUMARIA BANGU LTDA",
+      "inscricaoEmpresa": "ISENTO",
+      "cnpjCpfTransportadora": "29326102000183",
+      "inscricaoTransportador": "76026831",
+      "informacaoAdicional1": "",
+      "informacaoAdicional2": "",
+      "informacaoAdicional3": "",
+      "detalhes": [
+        {
+          "codigoEmpresa": "24286812000103",
+          "codigoProduto": "0834",
+          "tipoUc": "UN",
+          "fatorTipoUc": 1,
+          "classeProduto": "00",
+          "quantidadeMovimento": 1,
+          "valorUnitario": 9.85,
+          "tipoLogistico": 0,
+          "dadoLogistico": ""
+        },
+        {
+          "codigoEmpresa": "24286812000103",
+          "codigoProduto": "0827",
+          "tipoUc": "UN",
+          "fatorTipoUc": 1,
+          "classeProduto": "00",
+          "quantidadeMovimento": 1,
+          "valorUnitario": 5.26,
+          "tipoLogistico": 0,
+          "dadoLogistico": ""
+        }
+      ],
+      "empresas": [
+        {
+          "ativo": "1",
+          "bairro": "BANGU",
+          "cep": "21810011",
+          "cgcCpf": "24286812000103",
+          "codigo": "24286812000103",
+          "complemento": "",
+          "dataHistorico": "31-01-2023 10:01:08",
+          "depositante": "0",
+          "descricao": "BAZAR E PERFUMARIA BANGU LTDA",
+          "descricao2": "",
+          "endereco": "AVENIDA CONEGO DE VASCONCELOS",
+          "municipio": "RIO DE JANEIRO",
+          "numero": "263",
+          "sistemaModulo": "0",
+          "tipoPessoa": "J",
+          "transportadora": "0",
+          "uf": "RJ"
+        },
+        {
+          "ativo": "1",
+          "bairro": "PAVUNA",
+          "cep": "21532440",
+          "cgcCpf": "29326102000183",
+          "codigo": "29326102000183",
+          "complemento": "",
+          "dataHistorico": "31-01-2023 10:01:08",
+          "depositante": "0",
+          "descricao": "SR TRANSPORTES LTDA",
+          "descricao2": "",
+          "endereco": "AVENIDA CONEGO DE VASCONCELOS",
+          "municipio": "RIO DE JANEIRO",
+          "numero": "263",
+          "sistemaModulo": "0",
+          "tipoPessoa": "J",
+          "transportadora": "1",
+          "uf": "RJ"
+        }
+      ]
+    }
+  ]
+}
