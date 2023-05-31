@@ -1,0 +1,42 @@
+{
+   "documentos":[
+      {
+         "codigoEstabelecimento":2,
+         "codigoDepositante":"19349009000300",
+         "codigoEmpresa":"40767985036",
+         "codigoTransportadora":"60664828007340",
+         "cnpjCpfEmpresa":"40767985036",
+         "numeroDocumento":"555",
+         "serieDocumento":"1",
+         "tipoDocumento":"PED",
+         "dataEmissao":"2022-07-26 00:00:00",
+         "dataPrevisaoMovimento":"2022-07-26 00:00:00",
+         "naturezaOperacao":"0000",
+         "descricaoNaturezaOperacao":"SEM VALOR FISCAL",
+         "quantidadeVolume":1,
+         "valorTotalDocumento":14.63,
+         "valorTotalProduto":14.63,
+         "nfeChaveAcesso":"",
+         "agrupador":"0"
+      },
+      {
+         "codigoEstabelecimento":"2",
+         "codigoDepositante":"19349009000300",
+         "codigoEmpresa":"40767985036",
+         "codigoTransportadora":"60664828007340",
+         "cnpjCpfEmpresa":"40767985036",
+         "tipoDocumento":"NFS",
+         "serieDocumento":"1",
+         "numeroDocumento":"66666",
+         "naturezaOperacao":"0000",
+         "descricaoNaturezaOperacao":"SEM VALOR FISCAL",
+         "dataEmissao":"2022-07-26 00:00:00",
+         "dataPrevisaoMovimento":"2022-07-26 00:00:00",
+         "valorTotalDocumento":14.63,
+         "valorTotalProduto":14.63,
+         "nfeChaveAcesso":"99999999999999999999999990000123459999999998",
+         "quantidadeVolume":1,
+         "agrupador":"0"
+      }
+   ]
+}
