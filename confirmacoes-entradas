@@ -1,0 +1,1947 @@
+[
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60560326,
+		"data": "2023-05-11 13:33:44",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "375736",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "456848",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 1300,
+				"quantidadeMovimento": 1300,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60545907,
+		"data": "2023-05-09 12:50:56",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "369193",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430752",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 54,
+				"quantidadeMovimento": 3,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-04-13",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430650",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 228,
+				"quantidadeMovimento": 19,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-12-21",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426456",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 320,
+				"quantidadeMovimento": 320,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-08",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430504",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 108,
+				"quantidadeMovimento": 108,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-02-14",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430549",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 360,
+				"quantidadeMovimento": 15,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-08-24",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "430752",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 162,
+				"quantidadeMovimento": 162,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60609372,
+		"data": "2023-05-18 10:24:31",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "379162",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429645",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-18",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "430928",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429935",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 120,
+				"quantidadeMovimento": 120,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-06-25",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429942",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 120,
+				"quantidadeMovimento": 120,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-06-25",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429969",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 120,
+				"quantidadeMovimento": 10,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-01-19",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430614",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 300,
+				"quantidadeMovimento": 300,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-06-24",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "431730",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 120,
+				"quantidadeMovimento": 10,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-12-01",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "433152",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 80,
+				"quantidadeMovimento": 80,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-06-28",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60602097,
+		"data": "2023-05-17 11:27:18",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "379140",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "434574",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 1792,
+				"quantidadeMovimento": 1792,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-07-05",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429940",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 1036,
+				"quantidadeMovimento": 1036,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-06-23",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432511",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 840,
+				"quantidadeMovimento": 840,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-06-19",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432706",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 1624,
+				"quantidadeMovimento": 1624,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-06-26",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60554193,
+		"data": "2023-05-10 16:29:31",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "379262",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "429735",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 32,
+				"quantidadeMovimento": 32,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 59851384,
+		"data": "2023-04-17 18:43:05",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "367969",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "441646",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 24,
+				"quantidadeMovimento": 24,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60554192,
+		"data": "2023-05-10 16:29:31",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "379263",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429735",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 32,
+				"quantidadeMovimento": 32,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-01-17",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "429735",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 16,
+				"quantidadeMovimento": 16,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60623617,
+		"data": "2023-05-19 18:35:04",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "379143",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "431577",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-09-27",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430685",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 1272,
+				"quantidadeMovimento": 1272,
+				"tipoUc": "UN",
+				"dataVencimento": "2026-04-14",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "429810",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "429813",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429991",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-04-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "431577",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 12,
+				"quantidadeMovimento": 12,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-09-27",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60553040,
+		"data": "2023-05-10 15:36:54",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "379200",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432958",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 180,
+				"quantidadeMovimento": 180,
+				"tipoUc": "UN",
+				"dataVencimento": "2026-01-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430512",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 90,
+				"quantidadeMovimento": 15,
+				"tipoUc": "UN",
+				"dataVencimento": "2026-02-28",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429563",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 108,
+				"quantidadeMovimento": 9,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-04-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429563",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 72,
+				"quantidadeMovimento": 6,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-04-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430685",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 120,
+				"quantidadeMovimento": 120,
+				"tipoUc": "UN",
+				"dataVencimento": "2026-01-18",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60632573,
+		"data": "2023-05-22 14:53:17",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "383770",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429927",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": "2026-02-01",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60608418,
+		"data": "2023-05-18 08:56:23",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "379146",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429870",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 384,
+				"quantidadeMovimento": 32,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-09-27",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429759",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 156,
+				"quantidadeMovimento": 156,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-05-29",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429869",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 20,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-09-08",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60553041,
+		"data": "2023-05-10 15:36:54",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "379201",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429891",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 32,
+				"quantidadeMovimento": 32,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-04-09",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429563",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 24,
+				"quantidadeMovimento": 2,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-04-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429512",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 24,
+				"quantidadeMovimento": 1,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-04-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429578",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 36,
+				"quantidadeMovimento": 36,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432958",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 180,
+				"quantidadeMovimento": 180,
+				"tipoUc": "UN",
+				"dataVencimento": "2026-01-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "434048",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 60,
+				"quantidadeMovimento": 5,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-04-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "439795",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 32,
+				"quantidadeMovimento": 4,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-04-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430682",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 108,
+				"quantidadeMovimento": 18,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60613842,
+		"data": "2023-05-18 16:34:10",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "379260",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "440954",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 70,
+				"quantidadeMovimento": 70,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "440955",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 420,
+				"quantidadeMovimento": 420,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-11-05",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "440952",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 460,
+				"quantidadeMovimento": 460,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-11",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "440953",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 420,
+				"quantidadeMovimento": 420,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-10",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "440954",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 310,
+				"quantidadeMovimento": 310,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-09",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "440956",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 20,
+				"quantidadeMovimento": 20,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "440956",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 336,
+				"quantidadeMovimento": 336,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-16",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "440956",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 124,
+				"quantidadeMovimento": 124,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-22",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 59925843,
+		"data": "2023-04-18 19:02:25",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "368736",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "455051",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "435282",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "455026",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 120,
+				"quantidadeMovimento": 120,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "455028",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 360,
+				"quantidadeMovimento": 360,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "455031",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "455041",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 120,
+				"quantidadeMovimento": 120,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "430294",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 360,
+				"quantidadeMovimento": 360,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "432114",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 360,
+				"quantidadeMovimento": 360,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60631933,
+		"data": "2023-05-22 13:02:23",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "371125",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "430521",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 480,
+				"quantidadeMovimento": 480,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "430228",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 120,
+				"quantidadeMovimento": 120,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "430466",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 180,
+				"quantidadeMovimento": 180,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60230741,
+		"data": "2023-04-23 16:25:11",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "338060",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "429870",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 96,
+				"quantidadeMovimento": 96,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60494756,
+		"data": "2023-04-27 12:44:12",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "373243",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "433530",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 300,
+				"quantidadeMovimento": 300,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60567092,
+		"data": "2023-05-12 11:16:26",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "379126",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "434615",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 12,
+				"quantidadeMovimento": 12,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-10-11",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "431229",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 112,
+				"quantidadeMovimento": 112,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-24",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432040",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 144,
+				"quantidadeMovimento": 12,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-17",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "430121",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 120,
+				"quantidadeMovimento": 120,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430071",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 180,
+				"quantidadeMovimento": 15,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-07-03",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430410",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 288,
+				"quantidadeMovimento": 24,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-06",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "430697",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 300,
+				"quantidadeMovimento": 300,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430740",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 200,
+				"quantidadeMovimento": 20,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-12-14",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432400",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 4,
+				"quantidadeMovimento": 4,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-08-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432400",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 140,
+				"quantidadeMovimento": 140,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-08-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "443005",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 175,
+				"quantidadeMovimento": 175,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-11",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "444141",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "455629",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 352,
+				"quantidadeMovimento": 352,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-23",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "455631",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 22,
+				"quantidadeMovimento": 22,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-14",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "455631",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 14,
+				"quantidadeMovimento": 14,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-12-10",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "455635",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 32,
+				"quantidadeMovimento": 32,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-16",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "455639",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 144,
+				"quantidadeMovimento": 144,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-15",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "455648",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 72,
+				"quantidadeMovimento": 72,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-16",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "435665",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 444,
+				"quantidadeMovimento": 444,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-07-03",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "435665",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 24,
+				"quantidadeMovimento": 24,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-07-02",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60289245,
+		"data": "2023-04-24 11:42:24",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "371227",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "443056",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 144,
+				"quantidadeMovimento": 144,
+				"tipoUc": "UN",
+				"dataVencimento": "2027-02-28",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426318",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 72,
+				"quantidadeMovimento": 72,
+				"tipoUc": "UN",
+				"dataVencimento": "2027-07-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "441062",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 60,
+				"quantidadeMovimento": 1,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60633802,
+		"data": "2023-05-22 17:07:51",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "383882",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "441356",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 240,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-04-27",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "441355",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 24,
+				"quantidadeMovimento": 24,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-04-24",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60633721,
+		"data": "2023-05-22 16:58:07",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "383662",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "431517",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 24,
+				"quantidadeMovimento": 24,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60633871,
+		"data": "2023-05-22 17:13:39",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "383785",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "437274",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 754,
+				"quantidadeMovimento": 754,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "437274",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 86,
+				"quantidadeMovimento": 86,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-11",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60643639,
+		"data": "2023-05-23 16:57:54",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "383621",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "426550",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 4466,
+				"quantidadeMovimento": 4466,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426356",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 1560,
+				"quantidadeMovimento": 130,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-03-03",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60539578,
+		"data": "2023-05-08 16:54:50",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "371629",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429592",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 120,
+				"quantidadeMovimento": 5,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-03-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429594",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 144,
+				"quantidadeMovimento": 6,
+				"tipoUc": "UN",
+				"dataVencimento": "2027-03-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429590",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 96,
+				"quantidadeMovimento": 4,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-03-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "429593",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 504,
+				"quantidadeMovimento": 21,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-03-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430113",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 110,
+				"quantidadeMovimento": 11,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-09-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430207",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 72,
+				"quantidadeMovimento": 72,
+				"tipoUc": "UN",
+				"dataVencimento": "2027-02-28",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60631303,
+		"data": "2023-05-22 11:30:32",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "383561",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432715",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 144,
+				"quantidadeMovimento": 144,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-04-10",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "434936",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 312,
+				"quantidadeMovimento": 26,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-01-26",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "434955",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 129,
+				"quantidadeMovimento": 129,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-03-01",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "434998",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 120,
+				"quantidadeMovimento": 3,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-03-28",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "441434",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 10,
+				"quantidadeMovimento": 10,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-03-21",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "441525",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 18,
+				"quantidadeMovimento": 18,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-03-21",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "442044",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 32,
+				"quantidadeMovimento": 32,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-03-21",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "431632",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 400,
+				"quantidadeMovimento": 10,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-04-02",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "434090",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 240,
+				"quantidadeMovimento": 6,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-03-01",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "434932",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 40,
+				"quantidadeMovimento": 40,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-05-24",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "434933",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 216,
+				"quantidadeMovimento": 6,
+				"tipoUc": "UN",
+				"dataVencimento": "2025-03-30",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "434935",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 70,
+				"quantidadeMovimento": 70,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-04-16",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60631934,
+		"data": "2023-05-22 13:02:23",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "383562",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430107",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 84,
+				"quantidadeMovimento": 14,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "430107",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 216,
+				"quantidadeMovimento": 216,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60582264,
+		"data": "2023-05-15 11:01:43",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "376320",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "443056",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 300,
+				"quantidadeMovimento": 300,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "426316",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 300,
+				"quantidadeMovimento": 300,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60553409,
+		"data": "2023-05-10 15:55:16",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "379170",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "454999",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 108,
+				"quantidadeMovimento": 108,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-21",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430397",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 32,
+				"quantidadeMovimento": 32,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-02",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "454997",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 99,
+				"quantidadeMovimento": 99,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-18",
+				"loteFabricacao": null
+			}
+		]
+	},
+	{
+		"estadoIntegracao": "1",
+		"sequenciaIntegracao": 60623628,
+		"data": "2023-05-19 18:36:08",
+		"serieDocumento": "1",
+		"tipoDocumento": "NFE",
+		"codigoEmpresa": "30998254013009",
+		"numeroDocumento": "382879",
+		"quantidadeVolume": 0,
+		"codigoDepositante": "30998254013009",
+		"sentido": "E",
+		"peso": 0,
+		"detalhes": [
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426384",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 112,
+				"quantidadeMovimento": 14,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-02-04",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426381",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 936,
+				"quantidadeMovimento": 936,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-12-21",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426381",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 2376,
+				"quantidadeMovimento": 2376,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-12-21",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426344",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 324,
+				"quantidadeMovimento": 27,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-11-08",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426380",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 1764,
+				"quantidadeMovimento": 147,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-11-28",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "426338",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 3408,
+				"quantidadeMovimento": 3408,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "431770",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 828,
+				"quantidadeMovimento": 69,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-11-11",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "FR",
+				"codigoProduto": "439977",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 1488,
+				"quantidadeMovimento": 1488,
+				"tipoUc": "UN",
+				"dataVencimento": null,
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "441102",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 324,
+				"quantidadeMovimento": 324,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-10",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426392",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 1104,
+				"quantidadeMovimento": 138,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-11-20",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426470",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 96,
+				"quantidadeMovimento": 96,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-01-15",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426470",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 1008,
+				"quantidadeMovimento": 1008,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-01-17",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426512",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 360,
+				"quantidadeMovimento": 360,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-11-09",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426512",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 126,
+				"quantidadeMovimento": 126,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-11-09",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426708",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 216,
+				"quantidadeMovimento": 216,
+				"tipoUc": "UN",
+				"dataVencimento": "2024-02-09",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426758",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 48,
+				"quantidadeMovimento": 48,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-08-25",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426760",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 348,
+				"quantidadeMovimento": 348,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-05",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426769",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 36,
+				"quantidadeMovimento": 3,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-11-20",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "426791",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 192,
+				"quantidadeMovimento": 16,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-11-08",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "430442",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 156,
+				"quantidadeMovimento": 156,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-10-13",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432068",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 414,
+				"quantidadeMovimento": 414,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-13",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432068",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 216,
+				"quantidadeMovimento": 216,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-13",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432068",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 414,
+				"quantidadeMovimento": 414,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-13",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432068",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 414,
+				"quantidadeMovimento": 414,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-13",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432068",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 414,
+				"quantidadeMovimento": 414,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-13",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432068",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 414,
+				"quantidadeMovimento": 414,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-13",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "432068",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 402,
+				"quantidadeMovimento": 402,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-13",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "433781",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 1740,
+				"quantidadeMovimento": 1740,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-13",
+				"loteFabricacao": null
+			},
+			{
+				"classeProduto": "00",
+				"codigoProduto": "433781",
+				"fatorTipoUc": "1",
+				"quantidadeInicial": 2376,
+				"quantidadeMovimento": 2376,
+				"tipoUc": "UN",
+				"dataVencimento": "2023-09-13",
+				"loteFabricacao": null
+			}
+		]
+	}
+]
